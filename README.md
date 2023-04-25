@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Malan Amarasinghe
-- 👀 I’m interested in Android Native Development
+- 👀 I’m interested in Android Native Development and Flutter development
 - 🌱 I’m currently learning Android Jetpack Composer
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 How to reach me via Linkedin - https://www.linkedin.com/in/malandev/
