@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 How to reach me via Linkedin - https://www.linkedin.com/in/malandev/
 
-<img src="https://github-readme-stats.vercel.app/api?username=MalanDev&&show_icons=true&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MalanDev&&show_icons=true&theme=tokyonight"/>
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
