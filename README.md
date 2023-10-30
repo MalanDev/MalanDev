@@ -6,6 +6,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=MalanDev&&show_icons=true&theme=tokyonight"/>
 
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rphi)
+
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
