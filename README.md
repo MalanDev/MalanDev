@@ -1,3 +1,11 @@
+<div align="center">
+	<a href="https://www.linkedin.com/in/malandev/"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/-@malandev-yellow?style=flat&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/malandev/"></a>
+	<a href="mailto:malandev95@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Let's%20Talk-green?style=flat&labelColor=lightgrey&logo=gmail&link=mailto:malandev95@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"></a>
+	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=MalanDev.profile.id">
+	<br><br>
+</div>
+
+
 - 👋 Hi, I’m Malan Amarasinghe
 - 👀 I’m interested in Android Native Development and Flutter development
 - 🌱 I’m currently learning Android Jetpack Composer
