@@ -2,9 +2,11 @@
 	<a href="https://www.linkedin.com/in/malandev/"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/-@malandev-yellow?style=flat&labelColor=0e76a8&logo=LinkedIn&link=https://www.linkedin.com/in/malandev/"></a>
 	<a href="mailto:malandev95@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"><img alt="Gmail Badge" src="https://img.shields.io/badge/-Let's%20Talk-green?style=flat&labelColor=lightgrey&logo=gmail&link=mailto:malandev95@gmail.com?Subject=Hey%20I%20saw%20you%20on%20GitHub!"></a>
 	<img alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=MalanDev.profile.id">
-	<br><br>
+	<br/>
+	<p align="center"> <a href="https://twitter.com/malandev" target="blank"><img src="https://img.shields.io/twitter/follow/malandev?logo=twitter&style=for-the-badge" alt="malandev" /></a> </p>
+	<br/>
+	
 </div>
-
 
 - 👋 Hi, I’m Malan Amarasinghe
 - 👀 I’m interested in Android Native Development and Flutter development
@@ -17,8 +19,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=MalanDev&&show_icons=true&theme=tokyonight"/>
 
 ![old flair](https://stackoverflow.com/users/flair/6599299.png?theme=dark)
-
-<p align="left"> <a href="https://twitter.com/malandev" target="blank"><img src="https://img.shields.io/twitter/follow/malandev?logo=twitter&style=for-the-badge" alt="malandev" /></a> </p>
 
 [![@malandev's Holopin board](https://holopin.io/api/user/board?user=malandev)](https://holopin.io/@malandev)
 
