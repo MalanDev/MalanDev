@@ -13,9 +13,11 @@
 - 🌱 I’m currently learning Android Jetpack Composer
 - 💞️ I’m looking to collaborate on Android Development
 - 📫 How to reach me via Linkedin - https://www.linkedin.com/in/malandev/
-- ⚡ Fun fact **I love Coffee** :coffee: [Buy Me a coffee](https://www.buymeacoffee.com/malandev)
 
-
+### Support me
+If you want to send me a smile and boost my work on the next side project, then just
+- ⚡ **I love Coffee** :coffee: [Buy Me a coffee](https://www.buymeacoffee.com/malandev)
+<br/>
 <img src="https://github-readme-stats.vercel.app/api?username=MalanDev&&show_icons=true&theme=tokyonight"/>
 
 ![old flair](https://stackoverflow.com/users/flair/6599299.png?theme=dark)
