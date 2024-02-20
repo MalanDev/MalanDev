@@ -18,6 +18,8 @@
 
 ![old flair](https://stackoverflow.com/users/flair/6599299.png?theme=dark)
 
+<p align="left"> <a href="https://twitter.com/malandev" target="blank"><img src="https://img.shields.io/twitter/follow/malandev?logo=twitter&style=for-the-badge" alt="malandev" /></a> </p>
+
 [![@malandev's Holopin board](https://holopin.io/api/user/board?user=malandev)](https://holopin.io/@malandev)
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
